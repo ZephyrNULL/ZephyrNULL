@@ -1,44 +1,67 @@
-# 👋 Hi, I'm @xyrenExo
+# 👋 Hi, I'm Chamidu — @xyrenExo
 
-### 🎓 Computer Science Student | 🚀 Future AI & Machine Learning Engineer
-I am currently pursuing my **Bachelor's Degree in Computer Science**. I am a passionate developer focused on mastering the world of data, algorithms, and intelligent systems, while deeply exploring how hardware and software converge to create intelligent physical systems.
+### 🎓 Computer Science Student | ⚡ Electronics & Robotics Hobbyist | 🧠 AI & ML Explorer
+
+I'm a Computer Science undergraduate passionate about the intersection of software and hardware. While I sharpen my CS fundamentals in the classroom, I spend my free time building circuits, tinkering with microcontrollers, and programming robots from scratch. I'm also deeply fascinated by AI and Machine Learning — especially applying intelligent algorithms to physical systems.
 
 ---
 
-## 🛠️ What I'm Up To
-- 🤖 **Robotics & Electronics:** Designing circuits, working with microcontrollers (Arduino, ESP32, Raspberry Pi), and programming autonomous behavior.
-- 🧠 **AI & Machine Learning:** Training models, exploring computer vision for robotics, and implementing intelligent algorithms.
-- 🎓 **Academic Journey:** Applying core CS principles (Data Structures, Algorithms, System Design) to physical computing.
+## 🛠️ What I'm Working On
+
+- 🤖 **Robotics & Electronics** — Designing circuits, working with Arduino, ESP32, and Raspberry Pi, and programming autonomous behaviors as a hobby
+- 🧠 **AI & Machine Learning** — Building conversational AI systems, exploring NLP, emotion detection, and computer vision
+- 🎓 **Computer Science Studies** — Applying core principles (Data Structures, Algorithms, System Design) to real-world projects
+- 💻 **Full-Stack Development** — Crafting end-to-end web apps with Python backends and TypeScript frontends
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [ai-emotional-support](https://github.com/xyrenExo/ai-emotional-support) | AI-powered emotional support assistant with empathetic conversations & mood tracking | Python |
+| [full-stack-ai-counselling-system](https://github.com/xyrenExo/full-stack-ai-counselling-system) | 24/7 AI mental health counselling platform with conversational AI & data insights | Python |
+| [Google-Go-Emotions](https://github.com/xyrenExo/Google-Go-Emotions) | Emotion analysis on Reddit Comments Dataset | Jupyter Notebook |
+| [binance-square-automated-posting](https://github.com/xyrenExo/binance-square-automated-posting) | Automation tool for Binance Square content posting | TypeScript |
+| [full-stack-quora-reddit-rss-scrape-web](https://github.com/xyrenExo/full-stack-quora-reddit-rss-scrape-web) | Reddit & Quora scraper for data collection | TypeScript |
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 ### 💻 Software & AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🔌 Hardware & Robotics
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+### ⚡ Hardware & Robotics *(Hobby)*
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-## 📈 GitHub Stats
-<p align="left">
-  <img src="./profile/stats.svg" alt="xyrenExo's GitHub Stats" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xyrenExo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyrenExo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📬 Let's Connect!
-I'm always looking to collaborate on open-source robotics projects, AI research, or hackathons. 
+## 📬 Let's Connect
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/chamidu-jalitha-924206402/
-- 📧 **Email:** xyrenexo@gmail.com
+I'm always open to collaborating on open-source robotics projects, AI research, or hackathons. Let's build something cool!
 
-"The best way to predict the future is to invent it." 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamidu-jalitha-924206402/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyrenexo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xyrenExo)
+
+---
+
+> *"The best way to predict the future is to invent it."* 🚀
