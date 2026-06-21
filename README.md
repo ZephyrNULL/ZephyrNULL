@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chamidu — @xyrenExo
+# 👋 Hi, I'm Chamidu — @ZephyrNULL
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=CS+Student+%7C+Robotics+Hobbyist;Building+Smart+Systems+from+Scratch;AI+%2F+ML+Explorer)](https://git.io/typing-svg)
 ### 🎓 Computer Science Student | ⚡ Electronics & Robotics Hobbyist | 🧠 AI & ML Explorer
 
