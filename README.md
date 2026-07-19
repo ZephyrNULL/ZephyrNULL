@@ -47,11 +47,10 @@ I'm a Computer Science undergraduate passionate about the intersection of softwa
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyrenExo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyrenExo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZephyrNULL&show_icons=true&theme=radial" alt="ZephyrNULL's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZephyrNULL&layout=compact&theme=radial" alt="Top Languages" />
 </p>
-
 ---
 
 ## 📬 Let's Connect
