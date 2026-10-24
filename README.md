@@ -53,6 +53,9 @@ I'm a Computer Science undergraduate passionate about the intersection of softwa
 </p>
 
 ## ⟡ Contribution Graph
+> *An annual retrospective mapping out a full year of continuous coding, experimentation, and problem-solving.*<br>
+> *From low-level C architecture to full-stack applications and hardware scripts, this graph captures the journey.*<br>
+> *Each recorded contribution stands as a milestone in building a deeper, first-principles understanding of computer science.*
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
