@@ -52,6 +52,10 @@ I'm a Computer Science undergraduate passionate about the intersection of softwa
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZephyrNULL&theme=radial" alt="GitHub Streak Stats" />
 </p>
 
+## ⟡ Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xyrenExo&bg_color=0d1117&color=00f7ff&line=007CF0&point=ffffff&area=true&area_color=007CF0&hide_border=true)](https://github.com/xyrenExo)
+
 
 ## ⌬ Let's Connect
 
