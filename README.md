@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Chamidu — @ZephyrNULL
+# Hi, I'm Chamidu — @ZephyrNULL
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=CS+Student+%7C+Robotics+Hobbyist;Building+Smart+Systems+from+Scratch;AI+%2F+ML+Explorer)](https://git.io/typing-svg)
-### 🎓 Computer Science Student | ⚡ Electronics & Robotics Hobbyist | 🧠 AI & ML Explorer
+### ⊞ Computer Science Student | ⊞ Electronics & Robotics Hobbyist | ⊞ AI & ML Explorer
 
 I'm a Computer Science undergraduate passionate about the intersection of software and hardware. While I sharpen my CS fundamentals in the classroom, I spend my free time building circuits, tinkering with microcontrollers, and programming robots from scratch. I'm also deeply fascinated by AI and Machine Learning — especially applying intelligent algorithms to physical systems.
 
 ---
 
-## 🛠️ What I'm Working On
+## ⌘ What I'm Working On
 
-- 🤖 **Robotics & Electronics** — Designing circuits, working with Arduino, ESP32, and Raspberry Pi, and programming autonomous behaviors as a hobby
-- 🧠 **AI & Machine Learning** — Building conversational AI systems, exploring NLP, emotion detection, and computer vision
-- 🎓 **Computer Science Studies** — Applying core principles (Data Structures, Algorithms, System Design) to real-world projects
-- 💻 **Full-Stack Development** — Crafting end-to-end web apps with Python backends and TypeScript frontends
+- ⎔ **Robotics & Electronics** — Designing circuits, working with Arduino, ESP32, and Raspberry Pi, and programming autonomous behaviors as a hobby
+- ⎔ **AI & Machine Learning** — Building conversational AI systems, exploring NLP, emotion detection, and computer vision
+- ⎔ **Computer Science Studies** — Applying core principles (Data Structures, Algorithms, System Design) to real-world projects
+- ⎔ **Full-Stack Development** — Crafting end-to-end web apps with Python backends and TypeScript frontends
 
 ---
 
-## 🚀 Featured Projects
+## ∴ Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -27,9 +27,9 @@ I'm a Computer Science undergraduate passionate about the intersection of softwa
 
 ---
 
-## 🧰 Tech Stack & Tools
+## ⟡ Tech Stack & Tools
 
-### 💻 Software & AI
+### ⌁ Software & AI
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,20 +38,20 @@ I'm a Computer Science undergraduate passionate about the intersection of softwa
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### ⚡ Hardware & Robotics *(Hobby)*
+### ⌁ Hardware & Robotics *(Hobby)*
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## ⟡ GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZephyrNULL&theme=radial" alt="GitHub Streak Stats" />
 </p>
 
 
-## 📬 Let's Connect
+## ⌬ Let's Connect
 
 I'm always open to collaborating on open-source robotics projects, AI research, or hackathons. Let's build something cool!
 
