@@ -54,8 +54,6 @@ I'm a Computer Science undergraduate passionate about the intersection of softwa
 
 ## ⟡ Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZephyrNULL&bg_color=0d1117&color=00f7ff&line=007CF0&point=ffffff&area=true&area_color=007CF0&hide_border=true)](https://github.com/ZephyrNULL)
-
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
