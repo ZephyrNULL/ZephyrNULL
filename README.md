@@ -51,7 +51,9 @@ I'm a Computer Science undergraduate passionate about the intersection of softwa
 ## ⟡ GitHub Stats
 
 <p align="left">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=ZephyrNULL&theme=radical)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## ⟡ Contribution Graph
